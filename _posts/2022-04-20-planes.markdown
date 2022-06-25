@@ -3,7 +3,7 @@ title:  "Hello world"
 subtitle: "Hello world"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/b.jpg"
 date:   2022-04-20 12:12:12
 ---
 
